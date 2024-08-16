@@ -1,0 +1,14 @@
+{
+  "en": {
+    "welcome": "Welcome! Select a chapter from the sidebar.",
+    "chapters": "Chapters",
+    "darkMode": "Dark Mode",
+    "lightMode": "Light Mode"
+  },
+  "fr": {
+    "welcome": "Bienvenue ! Sélectionnez un chapitre dans la barre latérale.",
+    "chapters": "Chapitres",
+    "darkMode": "Mode Sombre",
+    "lightMode": "Mode Clair"
+  }
+}
