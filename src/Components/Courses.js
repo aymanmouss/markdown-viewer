@@ -60,6 +60,17 @@ const courses = {
           fr: "morpion-project-en.md",
         },
       },
+      {
+        id: "Dates",
+        title: {
+          en: "Dates",
+          fr: "Dates",
+        },
+        file: {
+          en: "Dates-en.md",
+          fr: "Dates-en.md",
+        },
+      },
     ],
   },
   angular: {
