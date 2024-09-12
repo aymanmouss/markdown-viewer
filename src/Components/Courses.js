@@ -68,7 +68,7 @@ const courses = {
         },
         file: {
           en: "Dates-en.md",
-          fr: "Dates-en.md",
+          fr: "Dates-fr.md",
         },
       },
     ],
